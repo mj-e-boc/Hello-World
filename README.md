@@ -1,7 +1,6 @@
 # Project Name
 
-Hello World 
-
+Hello World text displayed on a simple page   
 
 ## Built With
 
@@ -16,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@mj-e-boc](https://github.com/mj-e-boc)
 - Twitter: [@Mjononoronald](https://twitter.com/Mjononoronald)
@@ -34,6 +33,16 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Inspired by Microverse Alumni
+
+
+
+
+
+
+
+
+
+
 
 
 
